@@ -13,8 +13,8 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 
 - Introduction to React - [x] - July 5, 2023
 - JavaScript - [x] - July 6, 2023
-- Component State, event handlers - [ ]
-- A more complex state, debugging React apps - [ ]
+- Component State, event handlers - [x] - July 10, 2023
+- A more complex state, debugging React apps - [x] - July 10, 2023
 
 ### [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
 
