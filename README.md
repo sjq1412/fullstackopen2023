@@ -12,7 +12,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 ### [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
 
 - Introduction to React - [x] - July 5, 2023
-- JavaScript - [ ]
+- JavaScript - [x] - July 6, 2023
 - Component State, event handlers - [ ]
 - A more complex state, debugging React apps - [ ]
 
