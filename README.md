@@ -102,3 +102,5 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Using relational databases with Sequelize - [ ]
 - Join tables and queries - [ ]
 - Migrations, many-to-many relationships - [ ]
+
+test
