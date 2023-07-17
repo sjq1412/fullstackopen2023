@@ -42,6 +42,15 @@ const App = () => {
     setFilter(event.target.value);
   };
 
+  const handleDelete = (id) => {
+    const person = persons.find((p) => p.id === id);
+    if (window.confirm(`Delete ${person.name}?`)) {
+      personService.remove(id).then(() => {
+        setPersons(persons.filter((person) => person.id !== id));
+      });
+    }
+  };
+
   const personsToDisplay = filter
     ? persons.filter((person) => {
         return person.name
@@ -71,8 +80,9 @@ const App = () => {
       </form>
       <h2>Numbers</h2>
       {personsToDisplay.map((person) => (
-        <div key={person.name}>
-          {person.name} {person.number}
+        <div key={person.id}>
+          {person.name} {person.number}{" "}
+          <button onClick={() => handleDelete(person.id)}>delete</button>
         </div>
       ))}
     </div>
