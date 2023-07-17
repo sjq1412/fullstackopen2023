@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import Notification from "./components/Notification";
 import personService from "./services/persons";
 
 const App = () => {
@@ -6,10 +7,20 @@ const App = () => {
   const [newName, setNewName] = useState("");
   const [newNumber, setNewNumber] = useState("");
   const [filter, setFilter] = useState("");
+  const [notification, setNotification] = useState({
+    message: null,
+    variant: null,
+  });
 
   useEffect(() => {
     personService.getAll().then((initialPersons) => setPersons(initialPersons));
   }, []);
+
+  const resetNotification = () => {
+    setTimeout(() => {
+      setNotification({ message: null, variant: null });
+    }, 5000);
+  };
 
   const addPerson = (event) => {
     event.preventDefault();
@@ -25,6 +36,11 @@ const App = () => {
       };
 
       personService.create(personObject).then((returnedPerson) => {
+        setNotification({
+          message: `Added ${returnedPerson.name}`,
+          variant: "success",
+        });
+        resetNotification();
         setPersons(persons.concat(returnedPerson));
         setNewName("");
         setNewNumber("");
@@ -62,6 +78,10 @@ const App = () => {
   return (
     <div>
       <h2>Phonebook</h2>
+      <Notification
+        message={notification.message}
+        variant={notification.variant}
+      />
       <div>
         filter shown with:{" "}
         <input value={filter} onChange={handleFilterChange} />
