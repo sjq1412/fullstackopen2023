@@ -19,7 +19,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 ### [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
 
 - Rendering a collection, modules - [x] - July 11, 2023
-- Forms - [x] - July 17, 2023
+- Forms - [x] - July 16, 2023
 - Getting data from server - [x] - July 17, 2023
 - Altering data in server - [x] - July 17, 2023
 - Adding style to React apps - [x] - July 17, 2023
