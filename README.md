@@ -20,13 +20,13 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 
 - Rendering a collection, modules - [x] - July 11, 2023
 - Forms - [x] - July 16, 2023
-- Getting data from server - [ ]
-- Altering data in server - [ ]
-- Adding style to React apps - [ ]
+- Getting data from server - [x] - July 17, 2023
+- Altering data in server - [x] - July 17, 2023
+- Adding style to React apps - [x] - July 17, 2023
 
 ### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 
-- Node.js and Express - [ ]
+- Node.js and Express - [x] - August 15, 2023
 - Deploying app to internet - [ ]
 - Saving data to MongoDB - [ ]
 - Validation and ESLint - [ ]
@@ -101,6 +101,4 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 
 - Using relational databases with Sequelize - [ ]
 - Join tables and queries - [ ]
-- Migrations, many-to-many relationships - [ ]
-
-test
+- Migrations, many-to-many relationships - [ ] 
