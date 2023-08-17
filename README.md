@@ -27,7 +27,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 ### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 
 - Node.js and Express - [x] - August 15, 2023
-- Deploying app to internet - [ ]
+- Deploying app to internet - [x] - August 17, 2023
 - Saving data to MongoDB - [ ]
 - Validation and ESLint - [ ]
 
