@@ -29,7 +29,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Node.js and Express - [x] - August 15, 2023
 - Deploying app to internet - [x] - August 17, 2023
 - Saving data to MongoDB - [x] - August 22, 2023
-- Validation and ESLint - [ ]
+- Validation and ESLint - [x] - August 23, 2023
 
 ### [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
 
