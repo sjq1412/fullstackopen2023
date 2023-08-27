@@ -33,7 +33,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 
 ### [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
 
-- Structure of backend application, introduction to testing - [ ]
+- Structure of backend application, introduction to testing - [x] - August 27, 2023
 - Testing and backend - [ ]
 - User administration - [ ]
 - Token administration - [ ]
