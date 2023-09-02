@@ -35,7 +35,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 
 - Structure of backend application, introduction to testing - [x] - August 27, 2023
 - Testing and backend - [x] - August 30, 2023
-- User administration - [ ]
+- User administration - [x] - September 2, 2023
 - Token administration - [ ]
 
 ### [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
