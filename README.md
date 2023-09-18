@@ -41,9 +41,9 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 ### [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
 
 - Login in frontend - [x] - September 5, 2023
-- props.children and proptypes - [ ]
-- Testing React apps - [ ]
-- End to end testing - [ ]
+- props.children and proptypes - [x] - September 16, 2023
+- Testing React apps - [x] - September 16, 2023
+- End to end testing - [x] - September 18, 2023
 
 ### [Part 6 - State management with Redux](https://fullstackopen.com/en/part6)
 
