@@ -48,7 +48,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 ### [Part 6 - State management with Redux](https://fullstackopen.com/en/part6)
 
 - Flux-architecture and Redux - [x] - September 27, 2023
-- Many reducers - [ ]
+- Many reducers - [x] - September 28, 2023
 - Communicating with server in a redux application - [ ]
 - Connect - [ ]
 
