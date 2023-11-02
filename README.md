@@ -50,7 +50,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Flux-architecture and Redux - [x] - September 27, 2023
 - Many reducers - [x] - September 28, 2023
 - Communicating with server in a redux application - [x] - October 23, 2023
-- React Query, useReducer and the context - [ ]
+- React Query, useReducer and the context - [x] - November 2, 2023
 
 ### [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
 
