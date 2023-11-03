@@ -54,7 +54,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 
 ### [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
 
-- React-router - [ ]
+- React-router - [x] - November 3, 2023
 - Custom hooks - [ ]
 - More about styles - [ ]
 - Webpack - [ ]
