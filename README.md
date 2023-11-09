@@ -57,7 +57,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - React-router - [x] - November 3, 2023
 - Custom hooks - [x] - November 7, 2023
 - More about styles - [x] - November 8, 2023
-- Webpack - [ ]
+- Webpack - [x] - November 9, 2023
 - Class components, Miscellaneous - [ ]
 - Exercises - extending the bloglist - [ ]
 
